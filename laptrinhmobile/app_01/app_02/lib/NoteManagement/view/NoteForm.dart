@@ -26,11 +26,11 @@ class _NoteFormState extends State<NoteForm> {
   bool _isLoading = false;
 
   final List<String> _availableColors = [
-    "#FF7043", // Cam
-    "#FFEE58", // Vàng
-    "#66BB6A", // Xanh lá
-    "#42A5F5", // Xanh dương
-    "#AB47BC", // Tím
+    "#64B5F6", // Xanh dương nhạt
+    "#F06292", // Hồng phấn
+    "#4DB6AC", // Xám xanh
+    "#FFF176", // Vàng nhạt
+    "#BA68C8", // Tím nhạt
   ];
 
   @override
